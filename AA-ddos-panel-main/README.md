@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
+# 🚀 AA DDOS V1 - Free DDoS Panel 🚀
 
-# Get Username and pass at: https://link68.net/j4yHp0
+# Get Username and pass at: https://link68.net/wsfqmQP
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
@@ -41,8 +41,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/katavnnn/KATA-ddos-panel/
-cd KATA-ddos-panel
+git clone https://github.com/vudunganh/aa-ddos-panel/
+cd AA-ddos-panel
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -57,8 +57,7 @@ npm i cluster
 npm i cloudflare-bypasser
 pip install asciimatics
 pip install pystyle
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-apt-get install ./google-chrome-stable_current_amd64.deb
+
 ulimit -n 999999
 chmod 777 *
 python3 main.py
@@ -74,6 +73,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-FB: fb.com/katavn.2006
-Discord: katavnnn#8946
+Zalo: 0332132709
 ```
